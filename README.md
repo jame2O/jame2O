@@ -1,17 +1,18 @@
-## Hi there 👋 I'm James, and welcome to my GitHub page!
-### I am a Mathematics and Computer Science student at the University of Birmingham, eager to kickstart my career in data science and software engineering 🚀📊
+## Hi there 👋 I'm James Davenport, welcome to my GitHub page!
+ > I'm a Welsh Mathematics and Computer Science student at the University of Birmingham, eager to kickstart my career in data science and software engineering 🚀📊🐉
 
-<!--
-**jame2O/jame2O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some things I'm up to:
+- 🎓 Studying Mathematics and Computer Science @ UOB, specialising in Linear Algebra, Statistics & Systems Programming in C
+- 🧑‍🍳 [SuChef](https://github.com/jame2O/SuChef) - A **React Native/Flask** app which assists students in meal preperation and batch cooking by collecting grocery and recipe data from various websites and building an automatic shopping list, saving time, money, and minimising food waste. 
 
-Here are some ideas to get you started:
+### Some things I've done:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥇 Winner @ Encode London March 2024 for [SpotLabs](https://github.com/phoonicked/SpotLabs) - Best use of Decentralized AI 🥇
+- 🥇 Winner @ Encode London October 2024 for [Sepia](https://github.com/EonSolutions/Sepia) - Best use of Flare's Data Connector 
+- 🐲🛰️ Wales Representative Student @ [United Space School](https://www.unitedspaceschool.org/united-space-school/) 
+
+
+
+### 📫 How to reach me:
+- Email: jamowaind@gmail.com
+- Instagram: jamowz
