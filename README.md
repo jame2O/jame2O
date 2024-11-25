@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm James, and welcome to my GitHub page!
+### I am a Mathematics and Computer Science student at the University of Birmingham, eager to kickstart my career in data science and software engineering 🚀📊
 
 <!--
 **jame2O/jame2O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
