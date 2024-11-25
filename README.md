@@ -9,7 +9,7 @@
 
 - 🥇 Winner @ Encode London March 2024 for [SpotLabs](https://github.com/phoonicked/SpotLabs) - Best use of Decentralized AI 🥇
 - 🥇 Winner @ Encode London October 2024 for [Sepia](https://github.com/EonSolutions/Sepia) - Best use of Flare's Data Connector 
-- 🐲🛰️ Wales Representative Student @ [United Space School](https://www.unitedspaceschool.org/united-space-school/) 
+- 🐲🛰️ Wales Representative Student & Green Team Distinguished Student, 2022 cohort @ [United Space School](https://www.unitedspaceschool.org/united-space-school/) 
 
 
 
