@@ -3,7 +3,8 @@
 
 ### Some things I'm up to:
 - 🎓 Studying Mathematics and Computer Science @ UOB, specialising in Linear Algebra, Statistics & Systems Programming in C
-- 🧑‍🍳 [SuChef](https://github.com/jame2O/SuChef) - A **React Native/Flask** app which assists students in meal preperation and batch cooking by collecting grocery and recipe data from various websites and building an automatic shopping list, saving time, money, and minimising food waste. 
+- 🧑‍🍳 [SuChef](https://github.com/jame2O/SuChef) - A **React Native/Flask** app which assists students in meal preperation and batch cooking by collecting grocery and recipe data from various websites and building an automatic shopping list, saving time, money, and minimising food waste.
+- 👶 Freelancing for **Maggie** - An AUS based childcare platform for searching, booking & advertising childcare activities.
 
 ### Some things I've done:
 
