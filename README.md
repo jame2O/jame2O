@@ -15,5 +15,5 @@
 
 
 ### 📫 How to reach me:
-- Email: jamowaind@gmail.com
+- Email: mail@jamesdavenport.dev
 - Instagram: jamowz
