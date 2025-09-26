@@ -2,6 +2,7 @@
  > I'm a Welsh Mathematics and Computer Science student at the University of Birmingham, eager to kickstart my career in data science and software engineering 🚀📊🐉
 
 ### Some things I'm up to:
+- 👷 Working for SquaredUp as a Software Engineer during my placement year.
 - 🎓 Studying Mathematics and Computer Science @ UOB, specialising in Linear Algebra, Statistics & Systems Programming in C
 - 👶 Freelancing for **Maggie** - An AUS based childcare platform for searching, booking & advertising childcare activities.
 
