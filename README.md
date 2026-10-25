@@ -2,11 +2,11 @@
  > I'm a Mathematics and Computer Science student at the University of Birmingham, eager to kickstart my career in software / systems engineering 🚀📊🐉
 
 ### Some things I'm up to:
-- 👷 Working for SquaredUp as a Placement Software Engineer.
+- 🚴 Working on Bunch, a brand-new platform for social cyclists in London to get together and ride, every week.
 - 🎓 Studying Mathematics and Computer Science @ UOB, specialising in Linear Algebra, Machine Learning & Computer Vision
 
 ### Some things I've done:
-
+- 👷 Worked for SquaredUp as a Placement Software Engineer.
 - 🥇 Winner @ Encode London March 2024 for [SpotLabs](https://github.com/phoonicked/SpotLabs) - Best use of Decentralized AI 
 - 🥇 Winner @ Encode London October 2024 for [Sepia](https://github.com/EonSolutions/Sepia) - Best use of Flare's Data Connector
 - 🐲🛰️ Wales Representative Student & Green Team Distinguished Student, 2022 cohort @ [United Space School](https://www.unitedspaceschool.org/united-space-school/)
