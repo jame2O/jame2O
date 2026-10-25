@@ -1,4 +1,4 @@
-## Hi there 👋 I'm James Davenport, welcome to my GitHub page
+## Hi there 👋 I'm James, welcome to my GitHub page
  > I'm a Mathematics and Computer Science student at the University of Birmingham, eager to kickstart my career in software / systems engineering 🚀📊🐉
 
 ### Some things I'm up to:
